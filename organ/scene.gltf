@@ -722,22 +722,22 @@
   ],
   "images": [
     {
-      "uri": "textures/Bones_lambert1SG_baseColor.jpeg"
+      "uri": "Bones_lambert1SG_baseColor.jpeg"
     },
     {
-      "uri": "textures/Bones_lambert1SG_metallicRoughness.png"
+      "uri": "Bones_lambert1SG_metallicRoughness.png"
     },
     {
-      "uri": "textures/Bones_lambert1SG_normal.png"
+      "uri": "Bones_lambert1SG_normal.png"
     },
     {
-      "uri": "textures/initialShadingGroup_baseColor.jpeg"
+      "uri": "initialShadingGroup_baseColor.jpeg"
     },
     {
-      "uri": "textures/initialShadingGroup_metallicRoughness.png"
+      "uri": "initialShadingGroup_metallicRoughness.png"
     },
     {
-      "uri": "textures/initialShadingGroup_normal.png"
+      "uri": "initialShadingGroup_normal.png"
     }
   ],
   "materials": [

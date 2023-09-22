@@ -790,25 +790,25 @@
   ],
   "images": [
     {
-      "uri": "textures/material_diffuse.png"
+      "uri": "material_diffuse.png"
     },
     {
-      "uri": "textures/material_specularGlossiness.png"
+      "uri": "material_specularGlossiness.png"
     },
     {
-      "uri": "textures/material_1_diffuse.png"
+      "uri": "material_1_diffuse.png"
     },
     {
-      "uri": "textures/material_1_specularGlossiness.png"
+      "uri": "material_1_specularGlossiness.png"
     },
     {
-      "uri": "textures/material_2_diffuse.png"
+      "uri": "material_2_diffuse.png"
     },
     {
-      "uri": "textures/material_4_diffuse.png"
+      "uri": "material_4_diffuse.png"
     },
     {
-      "uri": "textures/material_4_specularGlossiness.png"
+      "uri": "material_4_specularGlossiness.png"
     }
   ],
   "materials": [
